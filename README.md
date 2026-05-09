@@ -2,5 +2,5 @@
 
 | 规则名称 | 规则数 | 文件大小 | TXT文件 |
 | :--- | :--- | :--- | :--- |
-| `cnipv4` | **19273** | 300K | [下载 txt](rules/ipv4.txt) |
-| `cnipv6` | **5910** | 108K | [下载 txt](rules/ipv6.txt) |
+| `cnipv4` | **19279** | 300K | [下载 txt](rules/ipv4.txt) |
+| `cnipv6` | **5937** | 112K | [下载 txt](rules/ipv6.txt) |
