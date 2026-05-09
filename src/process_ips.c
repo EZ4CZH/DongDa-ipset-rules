@@ -49,7 +49,7 @@ void write_and_dedup(const char *filename, char **list, int count, const char *d
     }
 
     fprintf(f, "# Update Date: %s\n", date_str);
-    fprintf(f, "# Author: Zahc\n");
+    fprintf(f, "# Author: Cyzah\n");
 
     for (int i = 0; i < count; i++) {
         if (i > 0 && strcmp(list[i], list[i-1]) == 0) {
